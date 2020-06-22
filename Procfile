@@ -1,1 +1,1 @@
-Worker: node config.ini
+Worker: node start.bat
